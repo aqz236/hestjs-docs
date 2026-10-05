@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **本仓库已归档，开发已迁移至 monorepo：[aqz236/hestjs](https://github.com/aqz236/hestjs)**
+>
+> 本包现位于新仓库的 `apps/docs`，**完整提交历史已保留**。
+> 所有 issue、PR 与讨论请转到新仓库：
+> <https://github.com/aqz236/hestjs/issues>
+
+---
+
 # HestJS Documentation
 
 HestJS 官方文档网站，使用 [Docusaurus](https://docusaurus.io/) 构建。
